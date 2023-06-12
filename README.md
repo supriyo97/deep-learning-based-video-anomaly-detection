@@ -2,7 +2,7 @@
 This project is a part of my MTech thesis work, focusing on the development of an unsupervised reconstruction-based Video Anomaly Detection system using deep learning techniques.
 
 ## Features
-- Implementation of CNN-LSTM and 3D Convolution autoencoder models for video anomaly detection with **Tensorflow** library.
+- Implementation of CNN-LSTM and 3D Convolution autoencoder models for video anomaly detection with **TensorFlow** library.
 - Novel anomaly detection model leveraging image classifiers (Swin Transformer) for improved performance with **PyTorch** library.
 - Codebase with easy-to-use functions and modular architecture.
 - Pre-trained models for quick evaluation and deployment.
