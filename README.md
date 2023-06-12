@@ -1,2 +1,15 @@
 # Deep Learning Based Video Anomaly Detection (VAD)
-This repository provides an implementation of deep learning based video anomaly detection (VAD) models, including traditional models such as CNN-LSTM-AE and C3D-AE, as well as a novel anomaly detection model based on the idea of using image classifiers for video anomaly detection. Find code, pre-trained models, datasets, and documentation.
+This project is a part of my MTech thesis work, focusing on the development of an unsupervised reconstruction-based Video Anomaly Detection system using deep learning techniques.
+
+## Features
+- Implementation of CNN-LSTM and 3D Convolution autoencoder models for video anomaly detection.
+- Novel anomaly detection model leveraging image classifiers (Swin Transformer) for improved performance.
+- Codebase with easy-to-use functions and modular architecture.
+- Pre-trained models for quick evaluation and deployment.
+- Datasets and data preprocessing utilities for training and testing the models.
+- Detailed documentation with instructions for setup, usage, and model evaluation.
+
+More to come..
+
+Acknowledgements
+We would like to express our gratitude to the authors of the paper "Can An Image classifier Suffice for Action Recognition?" (arXiv link: https://arxiv.org/abs/2106.14104) for inspiring our novel approach to video anomaly detection.
