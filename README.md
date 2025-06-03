@@ -2,7 +2,7 @@
 
 # DEEP-LEARNING-BASED-VIDEO-ANOMALY-DETECTION
 
-Detect anomalies, enhance security, empower insights.
+Detect anomalies, enhance security, computer vision.
 
 ![last commit](https://img.shields.io/github/last-commit/supriyo97/deep-learning-based-video-anomaly-detection?color=007EC6&style=flat-square) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-100%25-F37626?style=flat-square) ![languages](https://img.shields.io/badge/languages-python-2ECC71?style=flat-square)
 
