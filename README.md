@@ -1,15 +1,51 @@
-# Deep Learning Based Video Anomaly Detection (VAD)
-This project is a part of my MTech thesis work, focusing on the development of an unsupervised reconstruction-based Video Anomaly Detection system using deep learning techniques.
+# DEEP-LEARNING-BASED-VIDEO-ANOMALY-DETECTION
 
-## Features
-- Implementation of CNN-LSTM and 3D Convolution autoencoder models for video anomaly detection with **TensorFlow** library.
-- Novel anomaly detection model leveraging image classifiers (Swin Transformer) for improved performance with **PyTorch** library.
-- Codebase with easy-to-use functions and modular architecture.
-- Pre-trained models for quick evaluation and deployment.
-- Datasets and data preprocessing utilities for training and testing the models.
-- Detailed documentation with instructions for setup, usage, and model evaluation.
+Detect anomalies, enhance security, empower insights.
 
-More to come..
+Built with the tools and technologies:  
+![last commit June 2023](https://img.shields.io/badge/last%20commit-June%202023-blue)  
+![Jupyter Notebook 100%](https://img.shields.io/badge/Jupyter%20Notebook-100%25-orange)  
+![languages 1](https://img.shields.io/badge/languages-1-green)
 
-Acknowledgements
-We would like to express our gratitude to the authors of the paper "Can An Image classifier Suffice for Action Recognition?" (arXiv link: https://arxiv.org/abs/2106.14104) for inspiring our novel approach to video anomaly detection.
+## Table of Contents
+
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+
+## OVERVIEW
+
+Unlock the potential of video analysis with deep-learning-based-video-anomaly-detection, a powerful tool designed to identify unusual events in video streams effortlessly.
+
+### Why deep-learning-based-video-anomaly-detection?
+
+This project aims to revolutionize video anomaly detection through advanced deep learning techniques. The core features include:
+
+- :red_circle: **Unsupervised Detection**: Identify anomalies without labeled data, saving time and resources.
+- :heart: **Advanced Architectures**: Leverage CNN-LSTM and 3D Convolution autoencoders for superior performance.
+- :large_blue_circle: **Modular Design**: Easily customize and integrate components to fit your specific needs.
+- :star2: **Pre-trained Models**: Rapidly deploy solutions with pre-trained models, accelerating your development process.
+- :star: **Comprehensive Documentation**: Access detailed guides for efficient training and evaluation of your models.
+
+## GETTING STARTED
+
+### Prerequisites
+
+This project requires the following dependencies:
+
+- **Programming Language**: Jupyter Notebook
+
+### Installation
+
+Build deep-learning-based-video-anomaly-detection from the source and install dependencies:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/supriy09/deep-learning-based-video-anomaly-detection
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd deep-learning-based-video-anomaly-detection
+   ```
