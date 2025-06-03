@@ -1,11 +1,15 @@
+<div align="center">
+
 # DEEP-LEARNING-BASED-VIDEO-ANOMALY-DETECTION
 
 Detect anomalies, enhance security, empower insights.
 
-Built with the tools and technologies:  
-![last commit June 2023](https://img.shields.io/badge/last%20commit-June%202023-blue)  
-![Jupyter Notebook 100%](https://img.shields.io/badge/Jupyter%20Notebook-100%25-orange)  
-![languages 1](https://img.shields.io/badge/languages-1-green)
+![last commit June 2023](https://img.shields.io/github/last-commit/supriyo97/deep-learning-based-video-anomaly-detection?color=007EC6&style=flat-square) ![Jupyter Notebook 100%](https://img.shields.io/badge/Jupyter%20Notebook-100%25-F37626?style=flat-square) ![languages 1](https://img.shields.io/badge/languages-1-2ECC71?style=flat-square)
+
+Built with the tools and technologies
+
+</div>
+
 
 ## Table of Contents
 
