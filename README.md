@@ -2,11 +2,11 @@
 
 # DEEP-LEARNING-BASED-VIDEO-ANOMALY-DETECTION
 
-Detect anomalies, enhance security, computer vision.
+Detect anomalies, enhance security, computer vision
 
 ![last commit](https://img.shields.io/github/last-commit/supriyo97/deep-learning-based-video-anomaly-detection?color=007EC6&style=flat-square) ![languages](https://img.shields.io/github/languages/top/supriyo97/deep-learning-based-video-anomaly-detection?color=F37626&style=flat-square)
 
-Built with the tools and technologies.
+Built with the tools and technologies
 
 </div>
 
@@ -122,7 +122,7 @@ Two variants are provided:
 
 This project requires the following dependencies:
 
-- **Programming Language**: Jupyter Notebook
+- **Programming Language**: Python
 
 ### Installation
 
